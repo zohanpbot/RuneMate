@@ -2,7 +2,7 @@
     <main-class>com.wadiyan.runemate.scripts.airrunecrafter.AirRunecrafter</main-class>
     <name>AirRunecrafter</name>
     <description>Makes air runes in west Verrock.</description>
-    <version>1.00</version>
+    <version>1.01</version>
     <compatibility>
         <game-type>RS3</game-type>
     </compatibility>

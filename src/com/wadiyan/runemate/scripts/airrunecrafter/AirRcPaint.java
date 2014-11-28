@@ -12,7 +12,7 @@ public class AirRcPaint extends Painter {
     private String status = "Loading...";
 
     public AirRcPaint() {
-        super("Air Runecrafter", 1.00);
+        super("Air Runecrafter", 1.01);
         paintData = new String[5];
     }
 
