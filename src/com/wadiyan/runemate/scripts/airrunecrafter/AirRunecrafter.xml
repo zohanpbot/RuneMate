@@ -1,0 +1,14 @@
+<manifest>
+    <main-class>com.wadiyan.runemate.scripts.airrunecrafter.AirRunecrafter</main-class>
+    <name>AirRunecrafter</name>
+    <description>Makes air runes in west Verrock.</description>
+    <version>1.00</version>
+    <compatibility>
+        <game-type>RS3</game-type>
+    </compatibility>
+    <categories>
+        <category>RUNECRAFTING</category>
+    </categories>
+    <!--Required to publish on the bot store-->
+    <internal-id>AirRunecrafter</internal-id>
+</manifest>
